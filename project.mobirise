@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.7",
     "siteFonts": [],
-    "uniqCompNum": 17,
+    "uniqCompNum": 18,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png"
   },
@@ -42,9 +42,9 @@
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
-                "title": "Saying thank you is more than good manners, it is good spirituality.”&nbsp;",
+                "title": "“Saying thank you is more than good manners, it is good spirituality.”&nbsp;",
                 "contentAlign": "right",
-                "text": "— Alfred Painter",
+                "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -77,84 +77,6 @@
           ],
           "_name": "slider",
           "_anchor": "slider-f"
-        },
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": true,
-            "showText": false,
-            "showBullets": true,
-            "bgColor": "#4c6972",
-            "images": [
-              {
-                "image": "images/slide1.jpg",
-                "thumb": "images/slide1-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "image": "images/slide2.jpg",
-                "thumb": "images/slide2-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "images/slide3.jpg",
-                "thumb": "images/slide3-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "images/slide4.jpg",
-                "thumb": "images/slide4-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide5.jpg",
-                "thumb": "images/slide5-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide6.jpg",
-                "thumb": "images/slide6-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide7.jpg",
-                "thumb": "images/slide7-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide8.jpg",
-                "thumb": "images/slide8-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-g"
         },
         {
           "_styles": {
@@ -280,7 +202,7 @@
           "_anchor": "header3-4"
         },
         {
-          "text": "<p>I remember the day when I was shortlisted for an interview, I was in final year of engineering and it was nearly same time of the year in 2006. For me it was just another campus interview and had no idea whether I'll make it. However, things went right, I had an offer to join SunGard.</p><p><br></p><p>It has been 12 years 2 months since I started my professional software developer journey. First job and staying this long for the same company itself is an achievement! I've been lucky to be a part of growth story of SunGard/FIS and have been able to make tiny contribution to it. I had an opportunity to work across product lines and business units - played key roles in different products. Thank you all leaders for believing in me and thank you all teams for supporting me in meeting my goals.</p><p><br></p><p>It would take an enormous amount of time to list all the members here who have positively impacted my life. I would like to thank you all for making my stay in FIS memorable.<br></p><p><br></p><p> \n</p><p>In case I have unintentionally hurt anyone, please forgive me. Needless to say, please stay in touch.</p><p><br></p><p>You can reach me on any of the social media platforms linked below.</p><p><br></p><p>Best,</p><p><i>Paresh</i></p><p><br></p>",
+          "text": "<p>I remember the day when I got shortlisted for an interview, I was in final year of engineering and it was nearly same time of the year in 2006. For me it was just another campus interview and had no idea whether I will make it. However, things went right and I had an offer to join SunGard.</p><p><br></p><p>It has been 12 years 2 months since I started my journey of becoming professional software developer. First job and staying this long for the same company itself is an achievement! I've been lucky to be a part of growth story of SunGard/FIS and I am happy that I have been able to make a small contribution to it. I had an opportunity to work across business units with wide group of people - played key roles in product development teams. It would take an enormous amount of time to list all the members here who have positively impacted my life. I would like to thank you all for believing in me, supporting me in this journey and making my stay in FIS memorable.</p><p><br></p><p> \n</p><p>Needless to say, please stay in touch. You can reach me on any of the social media platforms linked below.</p><p><br></p><p>Best,</p><p><i>Paresh</i></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -358,7 +280,7 @@
               "active": true
             }
           },
-          "title": "Worth a recommendation?",
+          "title": "Recommend my work",
           "text": "<p>If you think I've made positive impact on any of the projects I've worked with you, I'd be happy to get a recommendation for my work.</p>",
           "_tags": [
             "Theme"
